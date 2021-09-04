@@ -1,1 +1,17 @@
+.foot   {
+    background-color:rgb(16, 190, 243);
+    color: white;
+}
+.title  {
+    background-image: url("../img/milkbg.jpg");
+    background-size: cover;
+    color: white;
+    height: 500px;
+}
+.cookieImg  {
+    border-radius: 50%;
+}
 
+.about  {
+    background-color:whitesmoke;
+}
